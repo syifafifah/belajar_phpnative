@@ -14,6 +14,7 @@ $result = mysqli_query($mysqli, "select * from buku");
 </head>
 <body>
 	<a href="add.php">Add new book</a>
+	<p>Staging</p>
 	<table border="1">
 		<tr>
 			<td>No.</td>
